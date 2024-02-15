@@ -1,4 +1,4 @@
-#Spicetify Installer
+## Spicetify Installer
 
 Spicetify: https://spicetify.app/docs/getting-started/
 
